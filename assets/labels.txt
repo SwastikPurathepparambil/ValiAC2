@@ -1,0 +1,6 @@
+0 happy
+1 angry
+2 sad
+3 ecstatic
+4 tired
+5 surprised

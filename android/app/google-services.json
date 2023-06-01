@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "431606323336",
+    "project_id": "valiac2-258d9",
+    "storage_bucket": "valiac2-258d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431606323336:android:b073abacd87c87e849e73d",
+        "android_client_info": {
+          "package_name": "com.example.christa_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431606323336-v23416hpv7nducdanjuc5glj637285ha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9mHGy0rwjxn2bSEsXiRewTsdxVPvPjHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431606323336-v23416hpv7nducdanjuc5glj637285ha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
